@@ -1,0 +1,28 @@
+{
+ "cards": [
+  {
+   "card": "cardOne"
+  },
+  {
+   "card": "cardOne"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "chart_lm",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-03-21 13:35:20.084177",
+ "dashboard_name": "library_management",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2024-03-21 14:00:10.011185",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "library_management",
+ "owner": "Administrator"
+}
