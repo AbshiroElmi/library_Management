@@ -1,9 +1,9 @@
 // Copyright (c) 2024, abshiraAato and contributors
 // For license information, please see license.txt
 frappe.ui.form.on("client_side_scripting", {
-// 	refresh(frm) {
-// frappe.msgprint("hello")
-// 	},
+	refresh(frm) {
+frappe.msgprint("hello")
+	},
 
 
 // you cant save and sumit
@@ -13,9 +13,9 @@ frappe.ui.form.on("client_side_scripting", {
 // },
 
 
-// age: function(frm){
-//     frappe.msgprint("this is this your real age!")
-// },
+age: function(frm){
+    frappe.msgprint("this is this your real age!")
+},
 
 
 
